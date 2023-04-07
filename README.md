@@ -19,5 +19,3 @@ The project presents a multiple-choice menu for making changes to the input imag
 * Image encoding.
 * Decoding a hidden image.
 * Color explosion (Innovation).
-
-The project also proposes a QR code generator.
