@@ -1,0 +1,14 @@
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\bin\Debug\TD2.exe.config
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\bin\Debug\TD2.exe
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\bin\Debug\TD2.pdb
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\obj\Debug\TD2A5.csprojAssemblyReference.cache
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\obj\Debug\TD2A5.csproj.CoreCompileInputs.cache
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\obj\Debug\TD2.exe
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2\obj\Debug\TD2.pdb
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\bin\Debug\TD2.exe.config
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\bin\Debug\TD2.exe
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\bin\Debug\TD2.pdb
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\obj\Debug\TD2A5.csprojAssemblyReference.cache
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\obj\Debug\TD2A5.csproj.CoreCompileInputs.cache
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\obj\Debug\TD2.exe
+C:\Users\Claire\Documents\ESILV\Algorithmique\A2\ProjSciInfo\TD2A5\obj\Debug\TD2.pdb
